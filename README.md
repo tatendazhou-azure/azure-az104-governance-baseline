@@ -20,6 +20,8 @@ This project demonstrates a governance-first approach to Azure administration, f
 - Azure Policy
 - Resource Locks
 - Cost Management (Budgets)
+- Microsoft Entra ID (Azure AD)
+
 
 ## Architecture
 _(Diagram to be added in /diagrams)_
