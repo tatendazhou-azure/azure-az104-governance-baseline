@@ -1,3 +1,5 @@
-# Azure Policies
+This folder is reserved for Azure Policy documentation and definitions
+used across future governance projects.
 
-This folder contains Azure Policy definitions and references used to enforce governance standards such as tagging and allowed locations.
+Policies in this lab were assigned directly via built-in Azure Policy
+definitions at resource group scope.
