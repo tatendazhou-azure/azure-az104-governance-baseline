@@ -6,3 +6,4 @@ This folder contains evidence of governance configuration in the Azure portal, i
 - RBAC assignments
 - Azure Policy enforcement
 - Resource locks
+- Resource group tags
