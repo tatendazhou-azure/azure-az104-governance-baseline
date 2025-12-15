@@ -1,3 +1,5 @@
-# Architecture Diagrams
+This folder is reserved for architecture and governance diagrams
+to be added in future projects.
 
-This folder contains diagrams illustrating the governance structure applied at the subscription level.
+This lab focuses on practical governance implementation rather than
+architectural visualization.
